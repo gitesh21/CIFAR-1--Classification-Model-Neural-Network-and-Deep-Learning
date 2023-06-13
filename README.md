@@ -12,3 +12,5 @@ An architecture to process images based on Convolutional Neural Networks consist
 * The final layer of the backbone uses the Logsoftmax function for effective gradient optimization and a smooth training process during epochs.
 * Batch normalization is applied to each layer in the backbone for normalization, which is particularly effective for CNN networks and image processing tasks.
 ## The Classifier
+* The classifier network comprises fully connected linear layers, comparing activation functions, batch normalization, and blocks.
+Adaptive average pooling is used to reduce the vector size and map it to a 'k' vector size.
