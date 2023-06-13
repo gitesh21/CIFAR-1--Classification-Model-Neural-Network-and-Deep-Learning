@@ -2,3 +2,5 @@
 ## Aim
 * To implement a particular model in order to solve the CIFAR-10 classification problem and classify every single image in terms of 1 out of 10 classes.
 * To build a model on training set and evaluate on tetsing set to acheive highest possible accuracy
+# The Model
+An architecture to process images based on Convolutional Neural Networks consisting of the n Backbones (B1,...,Bn) and a Classifier.
