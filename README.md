@@ -10,3 +10,6 @@ An architecture to process images based on Convolutional Neural Networks consist
 ## The Classifier
 * The classifier network comprises fully connected linear layers, comparing activation functions, batch normalization, and blocks.
 Adaptive average pooling is used to reduce the vector size and map it to a 'k' vector size.
+## Results
+
+<img width="1016" alt="Screenshot 2023-06-13 at 18 35 56" src="https://github.com/gitesh21/CIFAR-1--Classification-Model-Neural-Network-and-Deep-Learning/assets/54814417/e80b8f40-897d-44b2-b321-a192dc63433d">
